@@ -8,10 +8,6 @@
   An AI-powered resume intelligence platform that analyzes resumes, understands job requirements, identifies skill gaps, and provides personalized insights using Large Language Models and semantic search.
 </p>
 
-<p align="center">
-  <img src="docs/architecture.png" alt="AI Resume Intelligence Workflow" width="100%">
-</p>
-
 ---
 
 ## 📌 Project Overview
@@ -149,6 +145,9 @@ PostgreSQL stores application data while `pgvector` enables vector storage and s
 
 The overall workflow follows:
 
+<p align="center">
+  <img src="docs/application_workflow.png" alt="AI Resume Intelligence Workflow" width="100%">
+</p>
 
 
 ---
@@ -258,6 +257,9 @@ The final analysis can include:
 
 # 🏗️ Architecture
 
+<p align="center">
+  <img src="docs/architecture.png" alt="AI Resume Architecture Diagram" width="100%">
+</p>
 
 ---
 
